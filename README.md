@@ -8,9 +8,8 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 
 [![image](https://github.com/user-attachments/assets/559effe1-a840-407e-ae17-13b3987928d6)](https://3w7ng6-my.sharepoint.com/:f:/g/personal/driver_3w7ng6_onmicrosoft_com/EmMGllQE6-xOri86xa28o-wB69B7kVB0FM2BZgoc58Gdtg?e=e2cxvm)
 
-Thông thường, để cài đặt Windows 10 hoặc Windows 7, chúng ta thường sử dụng USB hoặc DVD chứa bộ cài đặt. Tuy nhiên, nếu gặp phải vấn đề với USB hoặc ổ đĩa không đọc được DVD, hoặc nếu bạn muốn rút ngắn thời gian cài đặt, thì WinToHDD là một lựa chọn lý tưởng.
-
-Dưới đây là hướng dẫn về cách cài đặt Windows từ xa bằng WinToHDD. Lưu ý rằng bạn nên sao lưu dữ liệu trước khi tiến hành cài đặt lại Windows.
+- Thông thường, để cài đặt Windows 10 hoặc Windows 7, chúng ta thường sử dụng USB hoặc DVD chứa bộ cài đặt. Tuy nhiên, nếu gặp phải vấn đề với USB hoặc ổ đĩa không đọc được DVD, hoặc nếu bạn muốn rút ngắn thời gian cài đặt, thì WinToHDD là một lựa chọn lý tưởng.
+- Dưới đây là hướng dẫn về cách cài đặt Windows từ xa bằng WinToHDD. Lưu ý rằng bạn nên sao lưu dữ liệu trước khi tiến hành cài đặt lại Windows.
 
 ### Tính năng nổi bật khi dùng WinToHDD
 - Cài Win nhanh chóng, tự động: WinToHDD hỗ trợ bạn cài đặt Windows một cách cực kỳ nhanh chóng và hoàn toàn tự động. Bạn chỉ cần tải và cài đặt WinToHDD về máy, kèm theo file ISO của Windows 10. Các bước cài đặt còn lại sẽ do WinToHDD tự động thực hiện.

@@ -15,7 +15,7 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 - Cài Win nhanh chóng, tự động: WinToHDD hỗ trợ bạn cài đặt Windows một cách cực kỳ nhanh chóng và hoàn toàn tự động. Bạn chỉ cần tải và cài đặt WinToHDD về máy, kèm theo file ISO của Windows 10. Các bước cài đặt còn lại sẽ do WinToHDD tự động thực hiện.
 - Cài được các bản Windows khác nhau: Với WinToHDD, bạn chỉ cần tải các file ISO của các phiên bản Windows về máy. Từ việc cài đặt đến nâng cấp Windows, tất cả đều sẽ được WinToHDD xử lý một cách tự động.
 
-  ![image](https://github.com/user-attachments/assets/6c2b6f6a-d99d-44b8-a02b-f8944b760dd0)
+  ![image](https://github.com/user-attachments/assets/b013a3ef-d378-4f46-80f5-d99bcc97fcbd)
 
 - Có thể giúp cài windows dễ dàng mà không cần CD, DVD hay USB: WinToHDD cho phép bạn cài đặt Windows mà không cần đến USB boot hoặc các đĩa CD chứa hệ điều hành. Việc này giúp giảm bớt thời gian cũng như công sức cài win.
 - Tạo bản sao hệ điều hành Windows hiện tại và lưu trên ổ cứng khác: Bạn có thể dễ dàng sao lưu hệ điều hành Windows hiện tại, bao gồm tất cả dữ liệu, sang một ổ cứng khác bằng WinToHDD. Điều này giúp bảo vệ dữ liệu của bạn và dễ dàng khôi phục khi cần.

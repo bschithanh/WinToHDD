@@ -30,3 +30,5 @@ QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạ
 6. Cuối cùng, khi máy tính khởi động lại, phần mềm sẽ tiến hành giải nén và chạy nội dung từ file ISO đã cài đặt. Các thao tác sau đó sẽ được tiến hành tự động mà bạn không cần làm gì thêm.
 
   ![image](https://github.com/user-attachments/assets/d8d30e3a-32d5-4d67-aa13-03a8080db05d)
+
+Bấm [vào đây](https://quantrimang.com/cong-nghe/cach-cai-windows-bang-wintohdd-khong-can-usb-dvd-142267) đề đọc thêm 
